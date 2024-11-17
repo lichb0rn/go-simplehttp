@@ -1,2 +1,3 @@
 # go-simplehttp
-Simple http server
+
+Simple http server in Go
